@@ -1,0 +1,52 @@
+{
+  "users": [
+    {
+      "name": "Alex",
+      "username": "alex23",
+      "email": "alex_9090@yahoo.com",
+      "phone": "920246339",
+      "website": "alex.io",
+      "id": 1
+    },
+    {
+      "name": "Robert",
+      "username": "denairo",
+      "email": "robert@gmail.com",
+      "phone": "12218919697",
+      "website": "robert.com",
+      "id": 2
+    },
+    {
+      "name": "Micheal jackson",
+      "username": "micheal13",
+      "email": "michael@hotmail.com",
+      "phone": "9964658-9877-2",
+      "website": "jackson.net",
+      "id": 3
+    },
+    {
+      "name": "django",
+      "username": "unchained",
+      "email": "django@co.uk",
+      "phone": "8757-999-11",
+      "website": "django.co.ck",
+      "id": 4
+    },
+    {
+      "name": "jimmy anderson",
+      "username": "jimmy233",
+      "email": "jimmy@kk.ko",
+      "phone": "9292929-99",
+      "website": "jimmy.com",
+      "id": 5
+    },
+    {
+      "name": "test",
+      "username": "data",
+      "email": "test@hl.ll",
+      "phone": "99009",
+      "website": "test.com",
+      "id": 6
+    }
+  ]
+}
