@@ -1,4 +1,4 @@
-# React CRUD Operation with Axios     [ DEMO](https://chsaqib.github.io/React-Axios-CRUD/)
+# React CRUD Operation with Axios     
 ![Screenshot](Screenshot_1.jpg)
 # Getting Started with Create React App
 
