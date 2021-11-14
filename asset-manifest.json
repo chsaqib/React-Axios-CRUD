@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/React-Axios-CRUD/static/css/main.af835943.chunk.css",
+    "main.js": "/React-Axios-CRUD/static/js/main.70f08865.chunk.js",
+    "main.js.map": "/React-Axios-CRUD/static/js/main.70f08865.chunk.js.map",
+    "runtime-main.js": "/React-Axios-CRUD/static/js/runtime-main.700c72dc.js",
+    "runtime-main.js.map": "/React-Axios-CRUD/static/js/runtime-main.700c72dc.js.map",
+    "static/css/2.383c0125.chunk.css": "/React-Axios-CRUD/static/css/2.383c0125.chunk.css",
+    "static/js/2.0a7c62fa.chunk.js": "/React-Axios-CRUD/static/js/2.0a7c62fa.chunk.js",
+    "static/js/2.0a7c62fa.chunk.js.map": "/React-Axios-CRUD/static/js/2.0a7c62fa.chunk.js.map",
+    "index.html": "/React-Axios-CRUD/index.html",
+    "static/css/2.383c0125.chunk.css.map": "/React-Axios-CRUD/static/css/2.383c0125.chunk.css.map",
+    "static/css/main.af835943.chunk.css.map": "/React-Axios-CRUD/static/css/main.af835943.chunk.css.map",
+    "static/js/2.0a7c62fa.chunk.js.LICENSE.txt": "/React-Axios-CRUD/static/js/2.0a7c62fa.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.700c72dc.js",
+    "static/css/2.383c0125.chunk.css",
+    "static/js/2.0a7c62fa.chunk.js",
+    "static/css/main.af835943.chunk.css",
+    "static/js/main.70f08865.chunk.js"
+  ]
+}
