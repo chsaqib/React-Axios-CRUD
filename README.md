@@ -1,5 +1,5 @@
 # React CRUD Operation with Axios
-![This is an image](https://github.com/chsaqib/React-Axios-CRUD/tree/main/public/assets/images/Screenshot_1.jpg)
+![Screenshot](Screenshot_1.jpg)
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
